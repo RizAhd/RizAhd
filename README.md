@@ -1,31 +1,110 @@
-<h1 align="center">Hi 👋, I'm Riflan Mohamed</h1>
-<h3 align="center">Software engineering enthusiast, diving into AI and learning in my free time</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Medi-Guide-Chat-Bot](https://github.com/RizAhd/Medi-Guide-Chat-Bot.git)
+# Riflan Mohamed
+### Software Engineering Enthusiast | AI Explorer | Lifelong Learner
 
-- 🌱 I’m currently learning **Machine Learning, RAG, Agentic AI, React Native**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/RizAhd](https://github.com/RizAhd)
+<br>
 
-- 💬 Ask me about **react, RAG, Python, Java**
+---
 
-- 📫 How to reach me **rizlanahmd4545@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [rizlan.site](rizlan.site)
+## ACTIVE PROJECTS
 
-- ⚡ Fun fact **Overthinking is my superpower… and occasional weakness.**
+### Medi-Guide Chat Bot
+*AI-powered medical assistant for educational purpose*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/riflan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riflan" height="30" width="40" /></a>
-<a href="https://kaggle.com/rizlanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rizlanahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/rizlan.ahd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizlan.ahd" height="30" width="40" /></a>
-</p>
+### Ping Me Chat Application  
+*Full Stack Chat Application*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Booksy Website
+*Full-stack book management website*
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BuyMeACoffee RizAhd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BuyMeACoffee RizAhd" /></a></p><br><br>
+### Personal Portfolio
+*Professional showcase*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizahd&show_icons=true&locale=en&layout=compact" alt="rizahd" /></p>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## TECHNICAL EXPERTISE
+
+**Languages**  
+Python · Java · JavaScript · TypeScript · PHP · SQL · HTML · CSS
+
+**Frameworks**  
+React · React Native · Django · Flask · Tailwind CSS · Bootstrap
+
+**AI & Data Science**  
+Machine Learning · Deep Learning · RAG · Scikit-learn · Pandas · Seaborn
+
+**Cloud & DevOps**  
+AWS · Azure · Appwrite · MySQL · Oracle
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## CURRENT FOCUS
+
+Machine Learning  
+Deep Learning  
+Agentic AI  
+RAG Systems  
+React Native  
+Full-stack Development
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## CONTACT
+
+**Email**  
+rizlanahmd4545@gmail.com
+
+**Portfolio**  
+rizlan.site
+
+**LinkedIn**  
+linkedin.com/in/riflan
+
+**Kaggle**  
+kaggle.com/rizlanahmed
+
+**Instagram**  
+instagram.com/rizlan.ahd
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+*Overthinking is my superpower—turning complex problems into elegant solutions.*
+
+</div>
+
+<br>
+
+<div align="center">
+
+[Support My Journey](https://www.buymeacoffee.com/rizahdd)
+
+</div>

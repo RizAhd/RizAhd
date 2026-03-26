@@ -66,12 +66,7 @@
   width="50"
   height="50"
 />
-<img
-  src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
-  alt="react"
-  width="50"
-  height="50"
-/>
+
 <img
   src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
   alt="reactnative"

@@ -1,394 +1,258 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     RIFLAN MOHAMED · GitHub profile README — "THE ANNUAL · Edition 01"
-     Editorial / Swiss grid · one file · no local assets · no workflows
-     Light + dark safe · accent #CA8A04 / #EAB308 gold (matches rizlan.me)
-═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- ════════════════════ MASTHEAD ════════════════════ -->
-
-<sub>`PORTFOLIO / 2026` &nbsp;·&nbsp; `EDITION 01` &nbsp;·&nbsp; `SRI LANKA`</sub>
-
-<br><br>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--          ✦ R I F L A N   M O H A M E D  ·  "ASGARD" EDITION ✦         -->
+<!--   Loki / God-of-Mischief theme · gold #F5B301 on #0d0d0d · one file   -->
+<!--   Snake (🐍) needs the Platane/snk Action on the RizAhd/RizAhd repo.  -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://rizlan.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=46&pause=1000&color=CA8A04&center=true&vCenter=true&width=820&height=80&lines=RIFLAN+MOHAMED" alt="Riflan Mohamed" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5b301,50:d4a017,100:0d0d0d&height=200&section=header&text=Riflan%20Mohamed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Developer%20%C2%B7%20Builder%20of%20talking%20machines&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
 </a>
 
-<br>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1200&color=CA8A04&center=true&vCenter=true&width=720&height=42&lines=Software+Engineer+%26+AI+Developer;Full-stack+engineering+%C3%97+machine+learning;Real-time+systems+%26+intelligent+agents" alt="Software Engineer & AI Developer" />
+<!-- Animated typing hero -->
+<a href="https://rizlan.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=F5B301&center=true&vCenter=true&width=720&height=60&lines=I+teach+machines+to+listen%2C+reason%2C+and+talk+back.;Full-stack+%2B+AI+%2B+Real-time+systems.;Currently+building+Loki+%E2%80%94+a+voice+assistant+with+a+god+complex." alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<sub>`ENGINEERING` &nbsp;·&nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp;·&nbsp; `REAL-TIME SYSTEMS`</sub>
-
-<br><br>
-
-> *I build scalable, data-driven applications and intelligent AI solutions —*
-> *blending full-stack engineering with machine learning and real-time systems.*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rizlan.me-CA8A04?style=flat-square&labelColor=1a1a1a)](https://rizlan.me)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-0A66C2?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-RizAhd-808080?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-write-808080?style=flat-square&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=RizAhd&style=flat-square&color=CA8A04&label=PROFILE+VIEWS" alt="profile views" />
+<!-- Stat badges -->
+<img src="https://komarev.com/ghpvc/?username=RizAhd&label=Profile%20Views&color=F5B301&style=for-the-badge&labelColor=0d0d0d" alt="views"/>
+<a href="https://github.com/RizAhd?tab=followers"><img src="https://img.shields.io/github/followers/RizAhd?label=Followers&style=for-the-badge&color=F5B301&labelColor=0d0d0d" alt="followers"/></a>
+<a href="https://rizlan.me"><img src="https://img.shields.io/badge/Portfolio-rizlan.me-F5B301?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d&labelColor=0d0d0d" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/riflan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-F5B301?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d" alt="linkedin"/></a>
 
 </div>
 
-<br>
+<br/>
 
----
+<!-- ───────────────────────────── WHOAMI TERMINAL ───────────────────────────── -->
 
-<br>
-
-<!-- ════════════════════ 01 · CURRENTLY ════════════════════ -->
-
-<div align="center"><sub>`01` &nbsp;—&nbsp; `CURRENTLY`</sub></div>
-
-<br>
+<div align="center"><sub><b>$ whoami --verbose</b></sub></div>
 
 ```text
-riflan@dev ~ systemctl status now
-|
-|  ● now.service — Riflan Mohamed, Software Engineer & AI Developer
-|     Loaded:  loaded (Sri Lanka; English · සිංහල · தமிழ்)
-|     Active:  active (running) — AI Automation Engineer (Intern) @ Innov8Smart
-|    Process:  building Loki — voice AI on Claude + live MCP tools, real-time waveform
-|      Tasks:  n8n · Zapier · Make · LLM routing, summarization, data enrichment
-|     CGroup:  Agentic AI · RAG · Model Context Protocol · Real-time systems
-|
+┌──(riflan@asgard)─[~]
+└─$ whoami --verbose
+
+  ▸ role         Software Engineer & AI Developer
+  ▸ based        Sri Lanka 🇱🇰  ·  building for everywhere
+  ▸ now          AI Automation Engineer Intern @ Innov8Smart
+  ▸ flagship     Loki — a wake-word voice assistant powered by Claude + MCP
+  ▸ obsessed_by  Agentic AI · RAG · Real-time systems · MCP
+  ▸ speaks       English · සිංහල · தமிழ்  (and a little Python)
+  ▸ superpower   Overthinking. It's also occasionally a weakness.
+  └─$ _
 ```
 
-<div align="center">
-<sub><b>AI Automation Engineer (Intern) @ Innov8Smart</b> &nbsp;·&nbsp; building <b>Loki</b> &nbsp;·&nbsp; <code>Feb 2026 – Present</code> &nbsp;·&nbsp; Sri Lanka &nbsp;·&nbsp; EN · සිංහල · தமிழ்</sub>
-</div>
+<br/>
 
-<br>
+<!-- ───────────────────────────── CURRENTLY ───────────────────────────── -->
 
-<table align="center" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### &nbsp;◆&nbsp; The Brief
-
-I am a **Software Engineer & AI Developer** from **Sri Lanka**, working where full-stack product engineering meets applied machine learning. My focus: scalable, data-driven apps and intelligent agents that feel **real-time**.
-
-`English` &nbsp; `සිංහල` &nbsp; `தமிழ்` <sub>(native)</sub>
+#### 🔭 &nbsp;Right now
+- 🎙️ Building **[Loki](https://github.com/RizAhd/Loki-AI-Personal-Assitant)** — a hands-free voice assistant with a live waveform UI, powered by **Claude + MCP**
+- 💼 Automating businesses with AI workflows (**n8n · Zapier · Make**) [@Innov8Smart](https://github.com/RizAhd)
+- 🌱 Going deep on **Agentic AI, RAG & the Model Context Protocol**
 
 </td>
 <td width="50%" valign="top">
 
-### &nbsp;◆&nbsp; The Post
-
-**AI Automation Engineer — Intern**
-`@ Innov8Smart` · Feb 2026 – Present
-
-Building AI automation workflows with **n8n · Zapier · Make**, integrating **LLMs / OpenAI** for routing, summarization, and data enrichment.
+#### 🎓 &nbsp;On paper
+- **BSc (Hons) Software Engineering** — Birmingham City University · `2022–2026`
+- **Diploma in ML & AI** — ICBS International · `2025–2026`
+- **Diploma in English** — ESOFT · `2024–2025`
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+<!-- ───────────────────────────── ARSENAL ───────────────────────────── -->
 
 <div align="center">
 
-<sub>`EDUCATION`</sub>
+### ⚡ &nbsp;The Arsenal
 
-`BSc (Hons) Software Engineering` — Birmingham City University · 2022–2026
-&nbsp;·&nbsp;
-`Dip. Machine Learning & AI` — ICBS International · 2025–2026
-&nbsp;·&nbsp;
-`Dip. English` — ESOFT · 2024–2025
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ════════════════════ 02 · THE TOOLKIT ════════════════════ -->
-
-<div align="center"><sub>`02` &nbsp;—&nbsp; `THE TOOLKIT`</sub></div>
-
-<br>
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css" alt="languages" />
-
-<br><br>
-
-**FRAMEWORKS · LIBRARIES**
-
-<img src="https://skillicons.dev/icons?i=react,flask,tailwind,nodejs,express,bootstrap,django" alt="frameworks" />
-
-![React Native](https://img.shields.io/badge/React_Native-CA8A04?style=flat-square&labelColor=1a1a1a)
-![REST APIs](https://img.shields.io/badge/REST_APIs-808080?style=flat-square&labelColor=1a1a1a)
-
-<br>
-
-**AI · DATA · ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-CA8A04?style=flat-square&labelColor=1a1a1a)
-![NLP](https://img.shields.io/badge/NLP-CA8A04?style=flat-square&labelColor=1a1a1a)
-![RAG](https://img.shields.io/badge/RAG_Chatbots-CA8A04?style=flat-square&labelColor=1a1a1a)
-![OpenAI](https://img.shields.io/badge/OpenAI-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Pinecone](https://img.shields.io/badge/Pinecone-CA8A04?style=flat-square&labelColor=1a1a1a)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-808080?style=flat-square&labelColor=1a1a1a)
-![Pandas](https://img.shields.io/badge/Pandas-808080?style=flat-square&labelColor=1a1a1a)
-![NumPy](https://img.shields.io/badge/NumPy-808080?style=flat-square&labelColor=1a1a1a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-808080?style=flat-square&labelColor=1a1a1a)
-![Seaborn](https://img.shields.io/badge/Seaborn-808080?style=flat-square&labelColor=1a1a1a)
-![Jupyter](https://img.shields.io/badge/Jupyter-808080?style=flat-square&labelColor=1a1a1a)
-
-<br>
-
-**AUTOMATION · REAL-TIME**
-
-![n8n](https://img.shields.io/badge/n8n-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Zapier](https://img.shields.io/badge/Zapier-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Make](https://img.shields.io/badge/Make-CA8A04?style=flat-square&labelColor=1a1a1a)
-![WebSocket](https://img.shields.io/badge/WebSocket-CA8A04?style=flat-square&labelColor=1a1a1a)
-
-<br>
-
-**DATA · CLOUD · TOOLS**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,appwrite,git,github,docker,aws,azure,linux,vscode,vite" alt="tools" />
-
-<br><br>
-
-<sub>Also: NetBeans &nbsp;·&nbsp; Kaggle</sub>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ════════════════════ 03 · FLAGSHIP — LOKI ════════════════════ -->
-
-<div align="center"><sub>`03` &nbsp;—&nbsp; `FLAGSHIP`</sub></div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=34&pause=1000&color=CA8A04&center=true&vCenter=true&width=620&height=58&lines=L+O+K+I" alt="Loki" />
-
-**AI Voice Assistant**
-
-</div>
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="58%" valign="top">
-
-A hands-free, **wake-word voice assistant for Windows**. Speech flows into **Claude** — backed by live **MCP tools** — and returns as a spoken reply, while a **real-time browser waveform** visualizes the conversation as it happens. Multilingual across **English · Sinhala · Tamil**, mirroring how I actually speak.
-
-It is the clearest expression of my work: an intelligent agent, wired into real-time I/O, that does something genuinely useful.
-
-`Python` &nbsp; `Claude` &nbsp; `MCP` &nbsp; `LiveKit` &nbsp; `OpenAI` &nbsp; `FastMCP` &nbsp; `WebSocket`
-
-[![View Loki](https://img.shields.io/badge/VIEW_REPOSITORY-Loki--AI--Personal--Assitant-CA8A04?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd/Loki-AI-Personal-Assitant)
-
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css&theme=dark" alt="languages"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" alt="frameworks"/></td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML &amp; Data</b></td>
+<td>
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="52" height="42"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pinecone-io/pinecone-io-icon.svg" alt="pinecone" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="42" height="42"/>
 </td>
-<td width="42%" valign="top">
-
-**Why it matters**
-
-- Wake-word → speech-to-text → reasoning → spoken reply
-- Live tool-use through the **Model Context Protocol**
-- Real-time waveform synced to the voice stream
-- Truly multilingual — `EN` · `සිංහල` · `தமிழ்`
-
+</tr>
+<tr>
+<td align="center"><b>Data · Cloud · DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,azure,docker,linux,git,github&theme=dark" alt="cloud"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools &amp; Automation</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,vite&theme=dark" alt="tools"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" alt="n8n" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42"/>
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
----
+<br/>
 
-<br>
+<!-- ───────────────────────────── PROJECTS ───────────────────────────── -->
 
-<!-- ════════════════════ 04 · SELECTED WORK ════════════════════ -->
+<div align="center">
 
-<div align="center"><sub>`04` &nbsp;—&nbsp; `SELECTED WORK`</sub></div>
+### 🛠️ &nbsp;Things I've Built &nbsp;<sub><sup>(12 and counting)</sup></sub>
 
-<br>
+</div>
 
-<table align="center" width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ &nbsp;Medi Guide Chatbot
-AI medical assistant — symptom checking and personalized guidance, powered by **RAG** over a vector store.
-
-`Python` `Flask` `OpenAI` `NLP` `Pinecone`
-
-[`→ repository`](https://github.com/RizAhd/Medi-Guide-Chat-Bot)
+#### 🎙️ [Loki — AI Voice Assistant](https://github.com/RizAhd/Loki-AI-Personal-Assitant)
+Wake-word voice assistant for Windows. Your speech → Claude (with live **MCP** tools) → spoken reply, all driving a real-time waveform. Speaks EN / සිංහල / தமிழ்.
+<br/>
+`Python` `Claude` `MCP` `LiveKit` `OpenAI`
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ &nbsp;PingMe — Real-Time Chat
+#### 🩺 [Medi Guide Chatbot](https://github.com/RizAhd/Medi-Guide-Chat-Bot)
+AI medical assistant — symptom checking and personalized guidance, grounded with RAG over a vector store.
+<br/>
+`Python` `Flask` `OpenAI` `Pinecone` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [PingMe — Real-Time Chat](https://github.com/RizAhd/PingMe-Real-time-Chat-Application)
 Full-stack chat with auth and **WebSocket** messaging across web & mobile.
+<br/>
+`TypeScript` `Node.js` `Express` `WebSocket`
 
-`TypeScript` `Java` `WebSocket` `Node.js` `Express` `Expo` `MySQL`
+</td>
+<td width="50%" valign="top">
 
-[`→ repository`](https://github.com/RizAhd/PingMe-Real-time-Chat-Application)
+#### 🍱 [Replate — Food Rescue](https://github.com/RizAhd/Replate)
+Firebase-connected platform that routes surplus food to people in need.
+<br/>
+`Kotlin` `Java` `Firebase`
 
 </td>
 </tr>
-<tr><td colspan="2"><br></td></tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◇ &nbsp;Cinemax — Movie App
-Movie discovery on **TMDB** data with real-time features and a native UI.
-
-`React Native` `TypeScript` `Expo Router` `NativeWind` `Socket.io` `TMDB` `Appwrite`
-
-[`→ repository`](https://github.com/RizAhd/cinemax-movie-app)
+#### 🎬 [Cinemax — Movie App](https://github.com/RizAhd/cinemax-movie-app)
+Movie discovery with TMDB data, real-time features, and a sleek native UI.
+<br/>
+`React Native` `Expo` `Appwrite` `Socket.io`
 
 </td>
 <td width="50%" valign="top">
 
-### ◇ &nbsp;Replate — Food Rescue
-Firebase platform routing **surplus food** to people in need.
-
-`Kotlin` `Java` `JavaScript` `Firebase`
-
-[`→ repository`](https://github.com/RizAhd/Replate)
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Universal Research Assistant
-API-orchestration research bot — answers from verified sources, **with citations**.
-
+#### 🔎 [Universal Research Assistant](https://github.com/RizAhd/reasearch-asistant)
+API-orchestration research bot that answers from verified sources with citations.
+<br/>
 `Python` `OpenAI` `Jupyter`
 
-[`→ repository`](https://github.com/RizAhd/reasearch-asistant)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Heart Disease Prediction
-Supervised **ML** pipeline for clinical risk classification.
-
-`Python` `Jupyter` `Pandas` `scikit-learn`
-
-[`→ repository`](https://github.com/RizAhd/Heart-Disease-Prediction)
-
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<br>
-
-<sub>`ALSO IN THE CATALOGUE`</sub>
-
-[`Qiera — Real Estate`](https://github.com/RizAhd/Qiera)
-&nbsp;·&nbsp;
-[`Booksy — Java Web`](https://github.com/RizAhd/Booksy)
-&nbsp;·&nbsp;
-[`Momento — To-Do`](https://github.com/RizAhd/momento-todo-app)
-&nbsp;·&nbsp;
-[`Bluemoon Pvt Ltd`](https://github.com/RizAhd/Bluemoon-Private-limited-Website)
-&nbsp;·&nbsp;
-[`Z Gen Cinema Reservation`](https://github.com/RizAhd/Cinema-Reservation-System)
+➡️ **[See all 12 projects on my portfolio →](https://rizlan.me)**
 
 </div>
 
-<br>
+<br/>
 
----
-
-<br>
-
-<!-- ════════════════════ 05 · THE NUMBERS ════════════════════ -->
-
-<div align="center"><sub>`05` &nbsp;—&nbsp; `THE NUMBERS`</sub></div>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&hide_border=true&bg_color=00000000&title_color=CA8A04&icon_color=CA8A04&text_color=808080&hide_title=true" alt="GitHub stats" />
-
-</td>
-<td width="50%" align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizAhd&layout=compact&hide_border=true&bg_color=00000000&title_color=CA8A04&text_color=808080&langs_count=8" alt="Top languages" />
-
-</td>
-</tr>
-</table>
+<!-- ───────────────────────────── STATS ───────────────────────────── -->
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=RizAhd&hide_border=true&background=00000000&stroke=808080&ring=CA8A04&fire=CA8A04&currStreakLabel=CA8A04&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="GitHub streak" />
+### 📊 &nbsp;By the Numbers
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=F5B301&icon_color=F5B301&text_color=cccccc&ring_color=F5B301" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizAhd&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=F5B301&text_color=cccccc&langs_count=8" alt="top-langs"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=RizAhd&hide_border=true&background=0d0d0d&stroke=F5B301&ring=F5B301&fire=F5B301&currStreakLabel=F5B301&sideLabels=cccccc&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RizAhd&bg_color=0d0d0d&color=F5B301&line=F5B301&point=ffffff&area=true&hide_border=true" alt="activity-graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RizAhd&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
-<br>
+<br/>
 
----
-
-<br>
-
-<!-- ════════════════════ 06 · COLOPHON / CONTACT ════════════════════ -->
+<!-- ───────────────────────────── SNAKE ───────────────────────────── -->
 
 <div align="center">
 
-<sub>`06` &nbsp;—&nbsp; `COLOPHON`</sub>
+### 🐍 &nbsp;Watch my commits get devoured
 
-<br><br>
+<img src="https://raw.githubusercontent.com/RizAhd/RizAhd/output/snake.svg" alt="snake animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&height=40&lines=Let's+build+something+intelligent.;Thanks+for+reading+%E2%80%94+Edition+01." alt="Let's build something intelligent." />
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CA8A04?style=flat-square&labelColor=1a1a1a)](https://rizlan.me)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
-[![GitHub](https://img.shields.io/badge/GITHUB-808080?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
-[![Email](https://img.shields.io/badge/EMAIL-808080?style=flat-square&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-CA8A04?style=flat-square&labelColor=1a1a1a)](https://www.buymeacoffee.com/RizAhd)
-
-<br><br>
-
-<sub>`ENGLISH` &nbsp;·&nbsp; `සිංහල` &nbsp;·&nbsp; `தமிழ்`</sub>
-
-<br>
-
-<sub>© 2026 &nbsp;Riflan Mohamed &nbsp;—&nbsp; Set in Unbounded & Space Grotesk &nbsp;·&nbsp; Made in Sri Lanka 🇱🇰</sub>
+<sub><em>Needs the Snake GitHub Action (Platane/snk) enabled on the <code>RizAhd/RizAhd</code> repo — ask me for the workflow file.</em></sub>
 
 </div>
+
+<br/>
+
+<!-- ───────────────────────────── CONNECT ───────────────────────────── -->
+
+<div align="center">
+
+### 🤝 &nbsp;Let's Build Something
+
+<a href="https://www.linkedin.com/in/riflan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:rizlanahmd4545@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://kaggle.com/rizlanahmed"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
+<a href="https://instagram.com/rizlan.ahd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://rizlan.me"><img src="https://img.shields.io/badge/Portfolio-F5B301?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d" alt="portfolio"/></a>
+
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/RizAhd">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:d4a017,100:f5b301&height=120&section=footer&text=%22Burdened%20with%20glorious%20purpose.%22&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer"/>

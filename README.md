@@ -184,8 +184,7 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 **REAL-TIME**
 
-<img src="https://cdn.simpleicons.org/socketdotio/CA8A04" height="42" alt="Socket.io" />
-&nbsp;&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-CA8A04?style=flat-square&logo=socketdotio&logoColor=1a1a1a&labelColor=1a1a1a)
 ![WebSocket](https://img.shields.io/badge/WebSocket-808080?style=flat-square&labelColor=1a1a1a)
 
 <br>

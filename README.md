@@ -33,7 +33,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-rizlan.me-CA8A04?style=flat-square&logo=googlechrome&logoColor=1a1a1a&labelColor=1a1a1a)](https://rizlan.me)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU1QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-RizAhd-808080?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/RizAhd)
 &nbsp;
@@ -270,12 +270,21 @@ It is the clearest expression of my work: an intelligent agent, wired into real-
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CA8A04?style=flat-square&logo=googlechrome&logoColor=1a1a1a&labelColor=1a1a1a)](https://rizlan.me)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
-[![GitHub](https://img.shields.io/badge/GITHUB-808080?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/RizAhd)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
-[![Email](https://img.shields.io/badge/EMAIL-808080?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
+<sub>`FIND ME ONLINE`</sub>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU1QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/riflan/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RizAhd)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rizlanahmed)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizlan.ahd)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizlanahmd4545@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-CA8A04?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizlan.me)
 
 <br><br>
 

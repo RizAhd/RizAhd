@@ -10,7 +10,7 @@
 
 <sub>`PORTFOLIO / 2026` &nbsp;·&nbsp; `EDITION 01` &nbsp;·&nbsp; `SRI LANKA`</sub>
 
-<br><br>
+<br>
 
 <a href="https://rizlan.me">
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=46&pause=1000&color=CA8A04&center=true&vCenter=true&width=820&height=80&lines=RIFLAN+MOHAMED" alt="Riflan Mohamed" />
@@ -24,7 +24,7 @@
 
 <sub>`ENGINEERING` &nbsp;·&nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp;·&nbsp; `REAL-TIME SYSTEMS`</sub>
 
-<br><br>
+<br>
 
 > *I build scalable, data-driven applications and intelligent AI solutions —*
 > *blending full-stack engineering with machine learning and real-time systems.*
@@ -45,11 +45,7 @@
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <!-- ════════════════════ 01 · CURRENTLY ════════════════════ -->
 
@@ -113,11 +109,7 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <!-- ════════════════════ 02 · THE TOOLKIT ════════════════════ -->
 
@@ -131,7 +123,7 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,html,css" alt="languages" />
 
-<br><br>
+<br>
 
 **FRAMEWORKS · LIBRARIES**
 
@@ -193,77 +185,27 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,aws,azure,linux" alt="data-cloud" />
 
-<br><br>
+<br>
 
 **TOOLS · WORKFLOW**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,npm,figma" alt="tools" />
 
-<br><br>
+<br>
 
 <sub>Also: NetBeans &nbsp;·&nbsp; Kaggle</sub>
 
 </div>
 
-<br>
-
 ---
 
-<br>
-
-<!-- ════════════════════ 03 · FLAGSHIP — LOKI ════════════════════ -->
-
-<div align="center"><sub>`03` &nbsp;—&nbsp; `FLAGSHIP`</sub></div>
-
-<br>
+<!-- ════════════════════ 03 · COLOPHON / CONTACT ════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=34&pause=1000&color=CA8A04&center=true&vCenter=true&width=620&height=58&lines=L+O+K+I" alt="Loki" />
-
-**AI Voice Assistant**
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="58%" valign="top">
-
-A hands-free, **wake-word voice assistant for Windows**. Speech flows into **Claude** — backed by live **MCP tools** — and returns as a spoken reply, while a **real-time browser waveform** visualizes the conversation as it happens. Multilingual across **English · Sinhala · Tamil**, mirroring how I actually speak.
-
-It is the clearest expression of my work: an intelligent agent, wired into real-time I/O, that does something genuinely useful.
-
-`Python` &nbsp; `Claude` &nbsp; `MCP` &nbsp; `LiveKit` &nbsp; `OpenAI` &nbsp; `FastMCP` &nbsp; `WebSocket`
-
-[![View Loki](https://img.shields.io/badge/VIEW_REPOSITORY-Loki--AI--Personal--Assitant-CA8A04?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd/Loki-AI-Personal-Assitant)
-
-</td>
-<td width="42%" valign="top">
-
-**Why it matters**
-
-- Wake-word → speech-to-text → reasoning → spoken reply
-- Live tool-use through the **Model Context Protocol**
-- Real-time waveform synced to the voice stream
-- Truly multilingual — `EN` · `සිංහල` · `தமிழ்`
-
-</td>
-</tr>
-</table>
+<sub>`03` &nbsp;—&nbsp; `COLOPHON`</sub>
 
 <br>
-
----
-
-<br>
-
-<!-- ════════════════════ 04 · COLOPHON / CONTACT ════════════════════ -->
-
-<div align="center">
-
-<sub>`04` &nbsp;—&nbsp; `COLOPHON`</sub>
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&height=40&lines=Let's+build+something+intelligent.;Thanks+for+reading+%E2%80%94+Edition+01." alt="Let's build something intelligent." />
 
@@ -271,7 +213,7 @@ It is the clearest expression of my work: an intelligent agent, wired into real-
 
 <sub>`FIND ME ONLINE`</sub>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU1QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/riflan/)
 &nbsp;
@@ -285,11 +227,11 @@ It is the clearest expression of my work: an intelligent agent, wired into real-
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-CA8A04?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizlan.me)
 
-<br><br>
+<br>
 
 <a href="https://www.buymeacoffee.com/RizAhd"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20cappuccino-CA8A04?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a" alt="Buy me a cappuccino" /></a>
 
-<br><br>
+<br>
 
 <sub>`ENGLISH` &nbsp;·&nbsp; `සිංහල` &nbsp;·&nbsp; `தமிழ்`</sub>
 

@@ -154,8 +154,11 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-CA8A04?style=flat-square&labelColor=1a1a1a)
 ![NLP](https://img.shields.io/badge/NLP-CA8A04?style=flat-square&labelColor=1a1a1a)
 ![RAG](https://img.shields.io/badge/RAG_Chatbots-CA8A04?style=flat-square&labelColor=1a1a1a)
-![OpenAI](https://img.shields.io/badge/OpenAI-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Pinecone](https://img.shields.io/badge/Pinecone-CA8A04?style=flat-square&labelColor=1a1a1a)
+![OpenAI](https://img.shields.io/badge/OpenAI-CA8A04?style=flat-square&logo=openai&logoColor=1a1a1a&labelColor=1a1a1a)
+![Claude](https://img.shields.io/badge/Claude-CA8A04?style=flat-square&logo=anthropic&logoColor=1a1a1a&labelColor=1a1a1a)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-CA8A04?style=flat-square&logo=huggingface&logoColor=1a1a1a&labelColor=1a1a1a)
+![LangChain](https://img.shields.io/badge/LangChain-CA8A04?style=flat-square&logo=langchain&logoColor=1a1a1a&labelColor=1a1a1a)
+![Pinecone](https://img.shields.io/badge/Pinecone-CA8A04?style=flat-square&logo=pinecone&logoColor=1a1a1a&labelColor=1a1a1a)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-808080?style=flat-square&labelColor=1a1a1a)
 ![Pandas](https://img.shields.io/badge/Pandas-808080?style=flat-square&labelColor=1a1a1a)
 ![NumPy](https://img.shields.io/badge/NumPy-808080?style=flat-square&labelColor=1a1a1a)
@@ -165,12 +168,21 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 <br>
 
-**AUTOMATION · REAL-TIME**
+**AI AUTOMATION · MARKETING**
 
-![n8n](https://img.shields.io/badge/n8n-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Zapier](https://img.shields.io/badge/Zapier-CA8A04?style=flat-square&labelColor=1a1a1a)
-![Make](https://img.shields.io/badge/Make-CA8A04?style=flat-square&labelColor=1a1a1a)
-![WebSocket](https://img.shields.io/badge/WebSocket-CA8A04?style=flat-square&labelColor=1a1a1a)
+![n8n](https://img.shields.io/badge/n8n-CA8A04?style=flat-square&logo=n8n&logoColor=1a1a1a&labelColor=1a1a1a)
+![Zapier](https://img.shields.io/badge/Zapier-CA8A04?style=flat-square&logo=zapier&logoColor=1a1a1a&labelColor=1a1a1a)
+![Make](https://img.shields.io/badge/Make-CA8A04?style=flat-square&logo=make&logoColor=1a1a1a&labelColor=1a1a1a)
+![HubSpot](https://img.shields.io/badge/HubSpot-808080?style=flat-square&logo=hubspot&logoColor=white&labelColor=1a1a1a)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-808080?style=flat-square&logo=mailchimp&logoColor=white&labelColor=1a1a1a)
+![Canva](https://img.shields.io/badge/Canva-808080?style=flat-square&logo=canva&logoColor=white&labelColor=1a1a1a)
+
+<br>
+
+**REAL-TIME**
+
+![WebSocket](https://img.shields.io/badge/WebSocket-808080?style=flat-square&labelColor=1a1a1a)
+![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=flat-square&logo=socketdotio&logoColor=white&labelColor=1a1a1a)
 
 <br>
 

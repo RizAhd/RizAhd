@@ -2,9 +2,6 @@
      RIFLAN MOHAMED · GitHub profile README — "THE ANNUAL · Edition 01"
      Editorial / Swiss grid · one file · no local assets · no workflows
      Light + dark safe · accent #CA8A04 / #EAB308 gold (matches rizlan.me)
-     NOTE: the ```ansi block in section 01 contains REAL ESC (0x1B) bytes.
-     Do NOT retype it by hand — keep the control characters intact or GitHub
-     prints the color codes as literal text.
 ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -21,7 +18,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1200&color=808080&center=true&vCenter=true&width=720&height=42&lines=Software+Engineer+%26+AI+Developer;Full-stack+engineering+%C3%97+machine+learning;Real-time+systems+%26+intelligent+agents" alt="Software Engineer & AI Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1200&color=CA8A04&center=true&vCenter=true&width=720&height=42&lines=Software+Engineer+%26+AI+Developer;Full-stack+engineering+%C3%97+machine+learning;Real-time+systems+%26+intelligent+agents" alt="Software Engineer & AI Developer" />
 
 <br>
 
@@ -36,7 +33,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-rizlan.me-CA8A04?style=flat-square&labelColor=1a1a1a)](https://rizlan.me)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-808080?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-0A66C2?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-RizAhd-808080?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd)
 &nbsp;
@@ -59,18 +56,22 @@
 <div align="center"><sub>`01` &nbsp;—&nbsp; `CURRENTLY`</sub></div>
 
 <br>
-```ansi
-[0;90m  riflan@dev [0m[0;90m~ systemctl status now[0m
-[0;90m|[0m
-[0;90m|[0m  [1;32m*[0m [1;37mnow.service[0m [0;90m-[0m [0;37mRiflan Mohamed, Software Engineer & AI Developer[0m
-[0;90m|[0m     [0;90mLoaded:[0m  [0;37mloaded (Sri Lanka; English . [0m[0;33mසිංහල[0m [0;37m. [0m[0;33mதமிழ்[0m[0;37m)[0m
-[0;90m|[0m     [0;90mActive:[0m  [1;32mactive (running)[0m [0;90m-[0m [0;37mAI Automation Engineer (Intern) @ Innov8Smart[0m
-[0;90m|[0m    [0;90mProcess:[0m  [0;37mbuilding [0m[1;33mLoki[0m [0;37m- voice AI on Claude + live MCP tools, real-time waveform[0m
-[0;90m|[0m      [0;90mTasks:[0m  [0;37mn8n . Zapier . Make . LLM routing, summarization, data enrichment[0m
-[0;90m|[0m     [0;90mCGroup:[0m  [0;37mAgentic AI . RAG . Model Context Protocol . Real-time systems[0m
-[0;90m|[0m
+
+```text
+riflan@dev ~ systemctl status now
+|
+|  ● now.service — Riflan Mohamed, Software Engineer & AI Developer
+|     Loaded:  loaded (Sri Lanka; English · සිංහල · தமிழ்)
+|     Active:  active (running) — AI Automation Engineer (Intern) @ Innov8Smart
+|    Process:  building Loki — voice AI on Claude + live MCP tools, real-time waveform
+|      Tasks:  n8n · Zapier · Make · LLM routing, summarization, data enrichment
+|     CGroup:  Agentic AI · RAG · Model Context Protocol · Real-time systems
+|
 ```
-<sub>If ANSI colors don''t render in your viewer: **AI Automation Engineer (Intern) @ Innov8Smart** · building **Loki** · `Feb 2026 – Present` · Sri Lanka · EN · සිංහල · தமிழ்</sub>
+
+<div align="center">
+<sub><b>AI Automation Engineer (Intern) @ Innov8Smart</b> &nbsp;·&nbsp; building <b>Loki</b> &nbsp;·&nbsp; <code>Feb 2026 – Present</code> &nbsp;·&nbsp; Sri Lanka &nbsp;·&nbsp; EN · සිංහල · தமிழ்</sub>
+</div>
 
 <br>
 
@@ -128,15 +129,18 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css&theme=light" alt="languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css" alt="languages" />
 
 <br><br>
 
 **FRAMEWORKS · LIBRARIES**
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,flask,tailwind,nodejs,express,bootstrap,django&theme=light" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,flask,tailwind,nodejs,express,bootstrap,django" alt="frameworks" />
 
-<br><br>
+![React Native](https://img.shields.io/badge/React_Native-CA8A04?style=flat-square&labelColor=1a1a1a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-808080?style=flat-square&labelColor=1a1a1a)
+
+<br>
 
 **AI · DATA · ML**
 
@@ -160,13 +164,16 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 ![Zapier](https://img.shields.io/badge/Zapier-CA8A04?style=flat-square&labelColor=1a1a1a)
 ![Make](https://img.shields.io/badge/Make-CA8A04?style=flat-square&labelColor=1a1a1a)
 ![WebSocket](https://img.shields.io/badge/WebSocket-CA8A04?style=flat-square&labelColor=1a1a1a)
-![REST APIs](https://img.shields.io/badge/REST_APIs-808080?style=flat-square&labelColor=1a1a1a)
 
 <br>
 
 **DATA · CLOUD · TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,appwrite,git,github,docker,aws,azure,linux,vscode,vite&theme=light" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,appwrite,git,github,docker,aws,azure,linux,vscode,vite" alt="tools" />
+
+<br><br>
+
+<sub>Also: NetBeans &nbsp;·&nbsp; Kaggle</sub>
 
 </div>
 
@@ -364,15 +371,15 @@ Supervised **ML** pipeline for clinical risk classification.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=808080&center=true&vCenter=true&width=680&height=40&lines=Let''s+build+something+intelligent.;Thanks+for+reading+%E2%80%94+Edition+01." alt="Let''s build something intelligent." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&height=40&lines=Let's+build+something+intelligent.;Thanks+for+reading+%E2%80%94+Edition+01." alt="Let's build something intelligent." />
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-CA8A04?style=flat-square&labelColor=1a1a1a)](https://rizlan.me)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-808080?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
 [![GitHub](https://img.shields.io/badge/GITHUB-808080?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-808080?style=flat-square&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-808080?style=flat-square&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
 [![Email](https://img.shields.io/badge/EMAIL-808080?style=flat-square&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-CA8A04?style=flat-square&labelColor=1a1a1a)](https://www.buymeacoffee.com/RizAhd)
 

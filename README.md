@@ -15,7 +15,7 @@
 <a href="https://rizlan.me">
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=46&pause=1000&color=CA8A04&center=true&vCenter=true&width=820&height=80&lines=RIFLAN+MOHAMED" alt="Riflan Mohamed" />
 </a>
-a
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1200&color=CA8A04&center=true&vCenter=true&width=720&height=42&lines=Software+Engineer+%26+AI+Developer;Full-stack+engineering+%C3%97+machine+learning;Real-time+systems+%26+intelligent+agents" alt="Software Engineer & AI Developer" />
@@ -129,7 +129,7 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,html,css" alt="languages" />
 
 <br><br>
 
@@ -138,7 +138,14 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 <img src="https://skillicons.dev/icons?i=react,flask,tailwind,nodejs,express,bootstrap,django" alt="frameworks" />
 
 ![React Native](https://img.shields.io/badge/React_Native-CA8A04?style=flat-square&labelColor=1a1a1a)
+![Expo](https://img.shields.io/badge/Expo-808080?style=flat-square&labelColor=1a1a1a)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-808080?style=flat-square&labelColor=1a1a1a)
+
+<br>
+
+**MOBILE · BACKEND**
+
+<img src="https://skillicons.dev/icons?i=firebase,appwrite,androidstudio,gradle" alt="mobile-backend" />
 
 <br>
 
@@ -167,9 +174,15 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 <br>
 
-**DATA · CLOUD · TOOLS**
+**DATA · CLOUD · DEVOPS**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,appwrite,git,github,docker,aws,azure,linux,vscode,vite" alt="tools" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,aws,azure,linux" alt="data-cloud" />
+
+<br><br>
+
+**TOOLS · WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,npm,figma" alt="tools" />
 
 <br><br>
 
@@ -229,145 +242,11 @@ It is the clearest expression of my work: an intelligent agent, wired into real-
 
 <br>
 
-<!-- ════════════════════ 04 · SELECTED WORK ════════════════════ -->
-
-<div align="center"><sub>`04` &nbsp;—&nbsp; `SELECTED WORK`</sub></div>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Medi Guide Chatbot
-AI medical assistant — symptom checking and personalized guidance, powered by **RAG** over a vector store.
-
-`Python` `Flask` `OpenAI` `NLP` `Pinecone`
-
-[`→ repository`](https://github.com/RizAhd/Medi-Guide-Chat-Bot)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;PingMe — Real-Time Chat
-Full-stack chat with auth and **WebSocket** messaging across web & mobile.
-
-`TypeScript` `Java` `WebSocket` `Node.js` `Express` `Expo` `MySQL`
-
-[`→ repository`](https://github.com/RizAhd/PingMe-Real-time-Chat-Application)
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Cinemax — Movie App
-Movie discovery on **TMDB** data with real-time features and a native UI.
-
-`React Native` `TypeScript` `Expo Router` `NativeWind` `Socket.io` `TMDB` `Appwrite`
-
-[`→ repository`](https://github.com/RizAhd/cinemax-movie-app)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Replate — Food Rescue
-Firebase platform routing **surplus food** to people in need.
-
-`Kotlin` `Java` `JavaScript` `Firebase`
-
-[`→ repository`](https://github.com/RizAhd/Replate)
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Universal Research Assistant
-API-orchestration research bot — answers from verified sources, **with citations**.
-
-`Python` `OpenAI` `Jupyter`
-
-[`→ repository`](https://github.com/RizAhd/reasearch-asistant)
-
-</td>
-<td width="50%" valign="top">
-
-### ◇ &nbsp;Heart Disease Prediction
-Supervised **ML** pipeline for clinical risk classification.
-
-`Python` `Jupyter` `Pandas` `scikit-learn`
-
-[`→ repository`](https://github.com/RizAhd/Heart-Disease-Prediction)
-
-</td>
-</tr>
-</table>
+<!-- ════════════════════ 04 · COLOPHON / CONTACT ════════════════════ -->
 
 <div align="center">
 
-<br>
-
-<sub>`ALSO IN THE CATALOGUE`</sub>
-
-[`Qiera — Real Estate`](https://github.com/RizAhd/Qiera)
-&nbsp;·&nbsp;
-[`Booksy — Java Web`](https://github.com/RizAhd/Booksy)
-&nbsp;·&nbsp;
-[`Momento — To-Do`](https://github.com/RizAhd/momento-todo-app)
-&nbsp;·&nbsp;
-[`Bluemoon Pvt Ltd`](https://github.com/RizAhd/Bluemoon-Private-limited-Website)
-&nbsp;·&nbsp;
-[`Z Gen Cinema Reservation`](https://github.com/RizAhd/Cinema-Reservation-System)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ════════════════════ 05 · THE NUMBERS ════════════════════ -->
-
-<div align="center"><sub>`05` &nbsp;—&nbsp; `THE NUMBERS`</sub></div>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&hide_border=true&bg_color=00000000&title_color=CA8A04&icon_color=CA8A04&text_color=808080&hide_title=true" alt="GitHub stats" />
-
-</td>
-<td width="50%" align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizAhd&layout=compact&hide_border=true&bg_color=00000000&title_color=CA8A04&text_color=808080&langs_count=8" alt="Top languages" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com?user=RizAhd&hide_border=true&background=00000000&stroke=808080&ring=CA8A04&fire=CA8A04&currStreakLabel=CA8A04&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="GitHub streak" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- ════════════════════ 06 · COLOPHON / CONTACT ════════════════════ -->
-
-<div align="center">
-
-<sub>`06` &nbsp;—&nbsp; `COLOPHON`</sub>
+<sub>`04` &nbsp;—&nbsp; `COLOPHON`</sub>
 
 <br><br>
 
@@ -381,7 +260,10 @@ Supervised **ML** pipeline for clinical risk classification.
 [![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
 [![Email](https://img.shields.io/badge/EMAIL-808080?style=flat-square&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-CA8A04?style=flat-square&labelColor=1a1a1a)](https://www.buymeacoffee.com/RizAhd)
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/RizAhd"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20cappuccino-CA8A04?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a" alt="Buy me a cappuccino" /></a>
 
 <br><br>
 

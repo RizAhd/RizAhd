@@ -7,6 +7,294 @@
 <div align="center">
 
 <!-- ════════════════════ MASTHEAD ════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     RIFLAN MOHAMED · GitHub profile README — "THE ANNUAL · Edition 01"
+     Editorial / Swiss grid · one file · no local assets · no workflows
+     Light + dark safe · accent #CA8A04 / #EAB308 gold (matches rizlan.me)
+═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- ════════════════════ MASTHEAD ════════════════════ -->
+
+<sub>`PORTFOLIO / 2026` &nbsp;·&nbsp; `EDITION 01` &nbsp;·&nbsp; `SRI LANKA`</sub>
+
+<br><br>
+
+<a href="https://rizlan.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=46&pause=1000&color=CA8A04&center=true&vCenter=true&width=820&height=80&lines=RIFLAN+MOHAMED" alt="Riflan Mohamed" />
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1200&color=CA8A04&center=true&vCenter=true&width=720&height=42&lines=Software+Engineer+%26+AI+Developer;Full-stack+engineering+%C3%97+machine+learning;Real-time+systems+%26+intelligent+agents" alt="Software Engineer & AI Developer" />
+
+<br>
+
+<sub>`ENGINEERING` &nbsp;·&nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp;·&nbsp; `REAL-TIME SYSTEMS`</sub>
+
+<br><br>
+
+> *I build scalable, data-driven applications and intelligent AI solutions —*
+> *blending full-stack engineering with machine learning and real-time systems.*
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rizlan.me-CA8A04?style=flat-square&logo=googlechrome&logoColor=1a1a1a&labelColor=1a1a1a)](https://rizlan.me)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-riflan-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-RizAhd-808080?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/RizAhd)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-write-808080?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RizAhd&style=flat-square&color=CA8A04&label=PROFILE+VIEWS" alt="profile views" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- ════════════════════ 01 · CURRENTLY ════════════════════ -->
+
+<div align="center"><sub>`01` &nbsp;—&nbsp; `CURRENTLY`</sub></div>
+
+<br>
+
+```text
+riflan@dev ~ systemctl status now
+|
+|  ● now.service — Riflan Mohamed, Software Engineer & AI Developer
+|     Loaded:  loaded (Sri Lanka; English · සිංහල · தமிழ்)
+|     Active:  active (running) — AI Automation Engineer (Intern) @ Innov8Smart
+|    Process:  building Loki — voice AI on Claude + live MCP tools, real-time waveform
+|      Tasks:  n8n · Zapier · Make · LLM routing, summarization, data enrichment
+|     CGroup:  Agentic AI · RAG · Model Context Protocol · Real-time systems
+|
+```
+
+<div align="center">
+<sub><b>AI Automation Engineer (Intern) @ Innov8Smart</b> &nbsp;·&nbsp; building <b>Loki</b> &nbsp;·&nbsp; <code>Feb 2026 – Present</code> &nbsp;·&nbsp; Sri Lanka &nbsp;·&nbsp; EN · සිංහල · தமிழ்</sub>
+</div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;◆&nbsp; The Brief
+
+I am a **Software Engineer & AI Developer** from **Sri Lanka**, working where full-stack product engineering meets applied machine learning. My focus: scalable, data-driven apps and intelligent agents that feel **real-time**.
+
+`English` &nbsp; `සිංහල` &nbsp; `தமிழ்` <sub>(native)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;◆&nbsp; The Post
+
+**AI Automation Engineer — Intern**
+`@ Innov8Smart` · Feb 2026 – Present
+
+Building AI automation workflows with **n8n · Zapier · Make**, integrating **LLMs / OpenAI** for routing, summarization, and data enrichment.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>`EDUCATION`</sub>
+
+`BSc (Hons) Software Engineering` — Birmingham City University · 2022–2026
+&nbsp;·&nbsp;
+`Dip. Machine Learning & AI` — ICBS International · 2025–2026
+&nbsp;·&nbsp;
+`Dip. English` — ESOFT · 2024–2025
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- ════════════════════ 02 · THE TOOLKIT ════════════════════ -->
+
+<div align="center"><sub>`02` &nbsp;—&nbsp; `THE TOOLKIT`</sub></div>
+
+<br>
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts,php,html,css" alt="languages" />
+
+<br><br>
+
+**FRAMEWORKS · LIBRARIES**
+
+<img src="https://skillicons.dev/icons?i=react,flask,tailwind,nodejs,express,bootstrap,django" alt="frameworks" />
+
+![React Native](https://img.shields.io/badge/React_Native-CA8A04?style=flat-square&logo=react&logoColor=1a1a1a&labelColor=1a1a1a)
+![Expo](https://img.shields.io/badge/Expo-808080?style=flat-square&logo=expo&logoColor=white&labelColor=1a1a1a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-808080?style=flat-square&logo=openapiinitiative&logoColor=white&labelColor=1a1a1a)
+
+<br>
+
+**MOBILE · BACKEND**
+
+<img src="https://skillicons.dev/icons?i=firebase,appwrite,androidstudio,gradle" alt="mobile-backend" />
+
+<br>
+
+**AI · DATA · ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-CA8A04?style=flat-square&labelColor=1a1a1a)
+![NLP](https://img.shields.io/badge/NLP-CA8A04?style=flat-square&labelColor=1a1a1a)
+![RAG](https://img.shields.io/badge/RAG_Chatbots-CA8A04?style=flat-square&labelColor=1a1a1a)
+![OpenAI](https://img.shields.io/badge/OpenAI-CA8A04?style=flat-square&logo=openai&logoColor=1a1a1a&labelColor=1a1a1a)
+![Claude](https://img.shields.io/badge/Claude-CA8A04?style=flat-square&logo=anthropic&logoColor=1a1a1a&labelColor=1a1a1a)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-CA8A04?style=flat-square&logo=huggingface&logoColor=1a1a1a&labelColor=1a1a1a)
+![LangChain](https://img.shields.io/badge/LangChain-CA8A04?style=flat-square&logo=langchain&logoColor=1a1a1a&labelColor=1a1a1a)
+![Pinecone](https://img.shields.io/badge/Pinecone-CA8A04?style=flat-square&logo=pinecone&logoColor=1a1a1a&labelColor=1a1a1a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-808080?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a1a)
+![Pandas](https://img.shields.io/badge/Pandas-808080?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a1a)
+![NumPy](https://img.shields.io/badge/NumPy-808080?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a1a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-808080?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
+![Seaborn](https://img.shields.io/badge/Seaborn-808080?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
+![Jupyter](https://img.shields.io/badge/Jupyter-808080?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a1a)
+
+<br>
+
+**AI AUTOMATION · MARKETING**
+
+![n8n](https://img.shields.io/badge/n8n-CA8A04?style=flat-square&logo=n8n&logoColor=1a1a1a&labelColor=1a1a1a)
+![Zapier](https://img.shields.io/badge/Zapier-CA8A04?style=flat-square&logo=zapier&logoColor=1a1a1a&labelColor=1a1a1a)
+![Make](https://img.shields.io/badge/Make-CA8A04?style=flat-square&logo=make&logoColor=1a1a1a&labelColor=1a1a1a)
+![HubSpot](https://img.shields.io/badge/HubSpot-808080?style=flat-square&logo=hubspot&logoColor=white&labelColor=1a1a1a)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-808080?style=flat-square&logo=mailchimp&logoColor=white&labelColor=1a1a1a)
+![Canva](https://img.shields.io/badge/Canva-808080?style=flat-square&logo=canva&logoColor=white&labelColor=1a1a1a)
+
+<br>
+
+**REAL-TIME**
+
+![WebSocket](https://img.shields.io/badge/WebSocket-808080?style=flat-square&logo=socketdotio&logoColor=white&labelColor=1a1a1a)
+![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=flat-square&logo=socketdotio&logoColor=white&labelColor=1a1a1a)
+
+<br>
+
+**DATA · CLOUD · DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,aws,azure,linux" alt="data-cloud" />
+
+<br><br>
+
+**TOOLS · WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman,npm,figma" alt="tools" />
+
+<br><br>
+
+<sub>Also: NetBeans &nbsp;·&nbsp; Kaggle</sub>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- ════════════════════ 03 · FLAGSHIP — LOKI ════════════════════ -->
+
+<div align="center"><sub>`03` &nbsp;—&nbsp; `FLAGSHIP`</sub></div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=34&pause=1000&color=CA8A04&center=true&vCenter=true&width=620&height=58&lines=L+O+K+I" alt="Loki" />
+
+**AI Voice Assistant**
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="58%" valign="top">
+
+A hands-free, **wake-word voice assistant for Windows**. Speech flows into **Claude** — backed by live **MCP tools** — and returns as a spoken reply, while a **real-time browser waveform** visualizes the conversation as it happens. Multilingual across **English · Sinhala · Tamil**, mirroring how I actually speak.
+
+It is the clearest expression of my work: an intelligent agent, wired into real-time I/O, that does something genuinely useful.
+
+`Python` &nbsp; `Claude` &nbsp; `MCP` &nbsp; `LiveKit` &nbsp; `OpenAI` &nbsp; `FastMCP` &nbsp; `WebSocket`
+
+[![View Loki](https://img.shields.io/badge/VIEW_REPOSITORY-Loki--AI--Personal--Assitant-CA8A04?style=flat-square&labelColor=1a1a1a)](https://github.com/RizAhd/Loki-AI-Personal-Assitant)
+
+</td>
+<td width="42%" valign="top">
+
+**Why it matters**
+
+- Wake-word → speech-to-text → reasoning → spoken reply
+- Live tool-use through the **Model Context Protocol**
+- Real-time waveform synced to the voice stream
+- Truly multilingual — `EN` · `සිංහල` · `தமிழ்`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- ════════════════════ 04 · COLOPHON / CONTACT ════════════════════ -->
+
+<div align="center">
+
+<sub>`04` &nbsp;—&nbsp; `COLOPHON`</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&height=40&lines=Let's+build+something+intelligent.;Thanks+for+reading+%E2%80%94+Edition+01." alt="Let's build something intelligent." />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-CA8A04?style=flat-square&logo=googlechrome&logoColor=1a1a1a&labelColor=1a1a1a)](https://rizlan.me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
+[![GitHub](https://img.shields.io/badge/GITHUB-808080?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/RizAhd)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=1a1a1a)](https://kaggle.com/rizlanahmed)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1a1a)](https://instagram.com/rizlan.ahd)
+[![Email](https://img.shields.io/badge/EMAIL-808080?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/RizAhd"><img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20cappuccino-CA8A04?style=for-the-badge&logo=buymeacoffee&logoColor=1a1a1a&labelColor=1a1a1a" alt="Buy me a cappuccino" /></a>
+
+<br><br>
+
+<sub>`ENGLISH` &nbsp;·&nbsp; `සිංහල` &nbsp;·&nbsp; `தமிழ்`</sub>
+
+<br>
+
+<sub>© 2026 &nbsp;Riflan Mohamed &nbsp;—&nbsp; Set in Unbounded & Space Grotesk &nbsp;·&nbsp; Made in Sri Lanka 🇱🇰</sub>
+
+</div>
 
 <sub>`PORTFOLIO / 2026` &nbsp;·&nbsp; `EDITION 01` &nbsp;·&nbsp; `SRI LANKA`</sub>
 

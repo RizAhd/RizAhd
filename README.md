@@ -60,7 +60,10 @@ What it does, and the single hardest thing you solved building it. &nbsp;`Tag` `
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=CA8A04&text_color=808080&icon_color=CA8A04&bg_color=00000000" height="150" alt="GitHub stats" />
+<!-- If this stays blank/broken, the shared server is rate-limited.
+     Real fix: self-host your own instance (5 min) and swap the host below.
+     See the instructions I gave you. -->
+<img src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&hide_border=true&title_color=CA8A04&text_color=808080&icon_color=CA8A04&bg_color=00000000" height="150" alt="GitHub stats" />
 
 <br>
 

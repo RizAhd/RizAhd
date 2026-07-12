@@ -199,11 +199,124 @@ Building AI automation workflows with **n8n · Zapier · Make**, integrating **L
 
 ---
 
-<!-- ════════════════════ 03 · COLOPHON / CONTACT ════════════════════ -->
+<!-- ════════════════════ 03 · FEATURED WORK ════════════════════ -->
+
+<div align="center"><sub>`03` &nbsp;—&nbsp; `FEATURED WORK`</sub></div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;❯&nbsp; Loki — Voice AI Assistant
+
+Real-time voice assistant built on **Claude** with live **MCP** tool-calling and a reactive waveform UI. Speech in, tool-augmented reasoning out, low-latency.
+
+`Claude` `MCP` `Real-time` `Voice` `Agentic AI`
+
+<sub>
+<a href="https://github.com/RizAhd">Code</a> &nbsp;·&nbsp; <a href="https://rizlan.me">Demo</a>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;❯&nbsp; AI Automation Suite
+
+Production automation workflows across **n8n · Zapier · Make**, wiring **LLM** routing, summarization, and data enrichment into real business pipelines.
+
+`n8n` `Zapier` `Make` `OpenAI` `LLM Ops`
+
+<sub>
+<a href="https://rizlan.me">Case study</a>
+</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;❯&nbsp; RAG Chatbot Platform
+
+Retrieval-augmented chat over private knowledge bases using vector search + **Pinecone / LangChain**, with grounded, citation-aware answers.
+
+`RAG` `LangChain` `Pinecone` `NLP` `Python`
+
+<sub>
+<a href="https://github.com/RizAhd">Code</a>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<!-- ✎ SWAP THIS: replace with a fourth real project.
+     Keep the same shape: title, 1–2 line blurb, tag row, links. -->
+
+### &nbsp;❯&nbsp; Full-Stack Mobile App
+
+Cross-platform app in **React Native / Expo** with a **Firebase / Appwrite** backend and real-time sync via **Socket.io**.
+
+`React Native` `Expo` `Firebase` `Socket.io`
+
+<sub>
+<a href="https://github.com/RizAhd">Code</a>
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<sub>`03` &nbsp;—&nbsp; `COLOPHON`</sub>
+<!-- ✎ OPTIONAL: pinned-repo cards. Swap repo=YOUR_REPO with real repo names
+     to render live GitHub repo cards themed to match. Delete if unused. -->
+
+<a href="https://github.com/RizAhd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizAhd&repo=Loki&title_color=CA8A04&text_color=808080&icon_color=EAB308&bg_color=00000000&border_color=808080&border_radius=6" height="auto" alt="Loki repo" />
+</a>
+
+<sub>↑ Replace <code>repo=Loki</code> with your actual pinned repositories.</sub>
+
+</div>
+
+---
+
+<!-- ════════════════════ 04 · THE NUMBERS ════════════════════ -->
+
+<div align="center"><sub>`04` &nbsp;—&nbsp; `THE NUMBERS`</sub></div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RizAhd&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=CA8A04&text_color=808080&icon_color=EAB308&bg_color=00000000&rank_icon=github" height="165" alt="GitHub stats" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RizAhd&hide_border=true&background=00000000&stroke=808080&ring=CA8A04&fire=CA8A04&currStreakLabel=CA8A04&sideLabels=808080&currStreakNum=EAB308&sideNums=EAB308&dates=808080" height="165" alt="GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizAhd&layout=compact&langs_count=10&hide_border=true&title_color=CA8A04&text_color=808080&bg_color=00000000" height="150" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RizAhd&theme=flat&no-frame=true&no-bg=true&column=7&title_color=CA8A04&text_color=808080" alt="Trophies" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizAhd&bg_color=00000000&color=808080&line=CA8A04&point=EAB308&area=true&hide_border=true" width="95%" alt="Activity graph" />
+
+</div>
+
+---
+
+<!-- ════════════════════ 05 · COLOPHON / CONTACT ════════════════════ -->
+
+<div align="center">
+
+<sub>`05` &nbsp;—&nbsp; `COLOPHON`</sub>
 
 <br>
 

@@ -36,19 +36,6 @@ Building **Loki** — a real-time voice assistant on **Claude** with live **MCP*
 | **Data / Infra** | `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Firebase` |
 | **Automation** | `n8n` · `Zapier` · `Make` |
 
-### &nbsp;`FEATURED`
-
-**❯ [Loki](https://rizlan.me) — Voice AI Assistant**
-Real-time voice agent on Claude with live MCP tool-calling and a reactive waveform UI. Speak, and it reasons with tools in the loop — low-latency, grounded, hands-free. &nbsp;`Claude` `MCP` `Real-time` `Agentic AI`
-
-<!-- ✎ REPLACE the two slots below with your two strongest PINNED repos.
-     One honest line each: what it does + the one hard part you solved. -->
-
-**❯ [Project Two](https://github.com/RizAhd) — one-line description**
-What it does, and the single hardest thing you solved building it. &nbsp;`Tag` `Tag` `Tag`
-
-**❯ [Project Three](https://github.com/RizAhd) — one-line description**
-What it does, and the single hardest thing you solved building it. &nbsp;`Tag` `Tag` `Tag`
 
 ---
 

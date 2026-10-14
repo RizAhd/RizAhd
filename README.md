@@ -1,78 +1,83 @@
-<!-- ═══════════════════════════════════════════════════════════════════
-     RIFLAN MOHAMED · GitHub profile README
-     RELIABLE BUILD — every visible element renders with zero third-party
-     image services. Optional "fancy" upgrades are at the bottom, switched
-     off by default so nothing can appear broken. One accent: #CA8A04.
-═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:60A5FA&height=210&section=header&text=RIFLAN%20MOHAMED&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%E2%80%A2%20Colombo%2C%20Sri%20Lanka&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Riflan Mohamed, Agentic AI Engineer"/>
 
-<div align="center">
+<p align="center">
+  <b>I build agents that listen, reason and act: voice agents, multi-agent systems and RAG that ship to production.</b>
+</p>
 
-<sub>`SOFTWARE ENGINEER` &nbsp;·&nbsp; `AI DEVELOPER` &nbsp;·&nbsp; `SRI LANKA`</sub>
+<p align="center">
+  <a href="https://rizlan.me"><img src="https://img.shields.io/badge/Portfolio-rizlan.me-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/riflan/"><img src="https://img.shields.io/badge/LinkedIn-riflan-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rizlanahmd4545@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.kaggle.com/rizlanahmed"><img src="https://img.shields.io/badge/Kaggle-rizlanahmed-1D4ED8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
 
-# RIFLAN MOHAMED
-
-**I build real-time, agentic AI — voice interfaces, RAG pipelines, and automation that ships.**
-
-[![Portfolio](https://img.shields.io/badge/rizlan.me-CA8A04?style=flat-square&logo=googlechrome&logoColor=1a1a1a&labelColor=1a1a1a)](https://rizlan.me)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-808080?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/riflan/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-808080?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:rizlanahmd4545@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Now-AI_Engineer_Intern_@_Innov8Smart-EEF4FF?style=flat-square&labelColor=1D4ED8" alt="Now"/>
+  <img src="https://img.shields.io/badge/Speaks-English_|_Sinhala_|_Tamil-EEF4FF?style=flat-square&labelColor=1D4ED8" alt="Languages"/>
+</p>
 
 ---
 
-### &nbsp;`NOW`
+### 🔷 Selected work
 
-Building **Loki** — a real-time voice assistant on **Claude** with live **MCP** tool-calling — as **AI Automation Engineer (Intern), Innov8Smart**. &nbsp;Working in `English` · `සිංහල` · `தமிழ්`.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### &nbsp;`STACK`
+**[TripWeaver](https://github.com/RizAhd/TripWeaver-Stemlink)** · multi-agent travel<br>
+LangGraph routes each request to hotel, flight, weather or general agents through 3 MCP servers. Live on Render.
 
-| Area | Tools |
-|---|---|
-| **AI / ML** | `Claude` · `OpenAI` · `LangChain` · `Pinecone` · `RAG` · `NLP` |
-| **Engineering** | `Python` · `TypeScript` · `React` · `Node.js` · `Flask` |
-| **Data / Infra** | `PostgreSQL` · `MySQL` · `Docker` · `AWS` · `Firebase` |
-| **Automation** | `n8n` · `Zapier` · `Make` |
+<img src="https://img.shields.io/badge/LangGraph-EEF4FF?style=flat-square&logo=langchain&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/MCP-EEF4FF?style=flat-square&logo=modelcontextprotocol&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/FastAPI-EEF4FF?style=flat-square&logo=fastapi&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/Docker-EEF4FF?style=flat-square&logo=docker&logoColor=1D4ED8"/>
 
+</td>
+<td width="50%" valign="top">
 
----
+**[Loki](https://github.com/RizAhd/Loki-AI-Personal-Assitant)** · voice agent<br>
+Hands-free wake-word assistant: Claude reasons with live MCP tools and answers out loud in 3 languages.
 
-<div align="center">
+<img src="https://img.shields.io/badge/Claude-EEF4FF?style=flat-square&logo=claude&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/FastMCP-EEF4FF?style=flat-square"/> <img src="https://img.shields.io/badge/LiveKit-EEF4FF?style=flat-square"/> <img src="https://img.shields.io/badge/WebSocket-EEF4FF?style=flat-square"/>
 
-<sub>Full portfolio and case studies → **[rizlan.me](https://rizlan.me)** &nbsp;·&nbsp; [GitHub](https://github.com/RizAhd) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/rizlanahmed)</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**[Research Assistant](https://github.com/RizAhd/reasearch-asistant)** · RAG<br>
+Answers from Wikipedia, arXiv and news with citations, retrieved through Pinecone.
 
+<img src="https://img.shields.io/badge/OpenAI-EEF4FF?style=flat-square&logo=openai&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/Pinecone-EEF4FF?style=flat-square&logo=pinecone&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/Flask-EEF4FF?style=flat-square&logo=flask&logoColor=1D4ED8"/>
 
-<!-- ════════════════════════════════════════════════════════════════════
-     OPTIONAL UPGRADES — switch these on ONLY after confirming they render.
-     Both rely on external services that are frequently rate-limited.
+</td>
+<td width="50%" valign="top">
 
-     ── 1 · UNBOUNDED TYPED HEADLINE ──
-     To use your brand typeface instead of the plain "# RIFLAN MOHAMED"
-     heading above: delete that heading line and paste this in its place.
-     Preview the raw URL in a browser first — if it loads, it'll work.
+**Hotel AI** · automation<br>
+WhatsApp and voice agents that handle guest conversations end to end, built on self-hosted n8n.
 
-       <a href="https://rizlan.me"><img
-         src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&size=50&duration=1&pause=100000&color=CA8A04&center=true&vCenter=true&width=740&height=84&lines=RIFLAN+MOHAMED"
-         alt="Riflan Mohamed" /></a>
+<img src="https://img.shields.io/badge/n8n-EEF4FF?style=flat-square&logo=n8n&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/WhatsApp_API-EEF4FF?style=flat-square&logo=whatsapp&logoColor=1D4ED8"/> <img src="https://img.shields.io/badge/Claude-EEF4FF?style=flat-square&logo=claude&logoColor=1D4ED8"/>
 
-     ── 2 · LIVE GITHUB STATS CARD ──
-     The shared server (below) is the thing that keeps failing for you.
-     DO NOT rely on it. Instead, self-host your own copy — it takes ~5 min
-     and then it's rate-limited only by your own traffic (and can count
-     your PRIVATE commits, so it won't show zeros):
+</td>
+</tr>
+</table>
 
-       a. Open  github.com/anuraghazra/github-readme-stats
-       b. Click "Deploy to Vercel", sign in with GitHub
-       c. GitHub → Settings → Developer settings → Tokens (classic) →
-          generate one (tick "repo" to include private work)
-       d. In Vercel → Settings → Environment Variables → add PAT_1 = token
-       e. You get a URL like  github-readme-stats-rizahd.vercel.app
-       f. Paste the tag below inside the centered footer div, swapping the
-          host for YOUR new one:
+### 🔷 Stack
 
-       <img src="https://YOUR-INSTANCE.vercel.app/api?username=RizAhd&show_icons=true&hide_border=true&title_color=CA8A04&text_color=808080&icon_color=CA8A04&bg_color=00000000" height="150" alt="GitHub stats" />
-════════════════════════════════════════════════════════════════════ -->
+<p>
+<img src="https://img.shields.io/badge/Claude-1D4ED8?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-1D4ED8?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1D4ED8?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-1D4ED8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-1D4ED8?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-1D4ED8?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-1D4ED8?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-1D4ED8?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-1D4ED8?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+<sub>🎓 BSc (Hons) Software Engineering, Birmingham City University &nbsp;|&nbsp; 🏅 DataCamp AI Engineer for Developers Associate &nbsp;|&nbsp; Oracle OCI AI Foundations &nbsp;|&nbsp; Anthropic Claude Code 101</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:1D4ED8&height=110&section=footer" width="100%"/>

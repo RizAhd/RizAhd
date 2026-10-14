@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Riflan Mohamed, agentic AI engineer">
+<style>.d{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:800}.s{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:700}.b{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.n{fill:#0B1F3A}.p{fill:#1D4ED8}.g{fill:#5B6B85}.w{fill:#fff}.v{transform-box:fill-box;transform-origin:center;animation:t 1.3s ease-in-out infinite alternate}.v1{animation-delay:-.45s}.v2{animation-delay:-.9s}@keyframes t{from{transform:scaleY(.4)}to{transform:scaleY(1.15)}}@media (prefers-reduced-motion:reduce){.v{animation:none}}</style>
+<rect x="1" y="1" width="1198" height="378" rx="22" fill="#fff" stroke="#D6E2F5" stroke-width="2"/>
+<text x="64" y="80" class="b g" font-size="19">Agentic AI engineer in Colombo, Sri Lanka</text>
+<text x="1136" y="80" class="m p" font-size="17" text-anchor="end">rizlan.me</text>
+<text x="60" y="170" class="d n" font-size="84">RIFLAN</text>
+<text x="60" y="256" class="d p" font-size="84">MOHAMED</text>
+<text x="770" y="142" class="b n" font-size="21">I build agents that listen,</text>
+<text x="770" y="172" class="b g" font-size="21">reason and act: voice agents,</text>
+<text x="770" y="202" class="b g" font-size="21">multi-agent systems and RAG</text>
+<text x="770" y="232" class="b g" font-size="21">that ship to production.</text>
+<path class="v v0" d="M64 310V316M115 307V319M166 303V323M217 299V327M268 302V324M319 308V318M370 306V320M421 305V321M472 302V324M523 296V330M574 303V323M626 311V315M677 301V325M728 298V328" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+<path class="v v1" d="M81 309V317M132 301V325M183 298V328M234 303V323M285 300V326M336 308V318M387 305V321M438 296V330M489 302V324M540 304V322M591 307V319M643 309V317M694 302V324M745 299V327" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+<path class="v v2" d="M98 304V322M149 301V325M200 303V323M251 304V322M302 307V319M353 306V320M404 298V328M455 301V325M506 301V325M557 302V324M609 308V318M660 307V319M711 302V324M762 300V326" stroke="#1D4ED8" stroke-width="6" stroke-linecap="round"/>
+<path d="M779 295V331M796 297V329M813 303V323M830 301V325M847 303V323M864 303V323M881 306V320M898 311V315M915 305V321M932 308V318M949 304V322M966 300V326M983 303V323M1000 299V327M1017 303V323M1034 296V330M1051 296V330M1068 298V328M1085 296V330M1102 303V323M1119 301V325M1136 304V322" stroke="#D6E2F5" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="362" class="m g" font-size="14">speaks English, Sinhala and Tamil</text>
+<text x="1136" y="362" class="m g" font-size="14" text-anchor="end">now: AI Engineer Intern, Innov8Smart</text>
+</svg>

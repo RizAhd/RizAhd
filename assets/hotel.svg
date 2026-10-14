@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="Hotel AI: automation">
+<style>.d{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:800}.s{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:700}.b{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.n{fill:#0B1F3A}.p{fill:#1D4ED8}.g{fill:#5B6B85}.w{fill:#fff}</style>
+<rect x="1" y="1" width="598" height="358" rx="18" fill="#fff" stroke="#D6E2F5" stroke-width="2"/>
+<rect x="20" y="20" width="560" height="150" rx="12" fill="#EEF4FF"/>
+<rect x="40" y="44" width="118" height="30" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="99" y="64" class="m n" font-size="13.5" text-anchor="middle">WhatsApp</text>
+<rect x="40" y="112" width="118" height="30" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="99" y="132" class="m n" font-size="13.5" text-anchor="middle">voice call</text>
+<polyline points="158,59 196,59 196,95 222,95" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<polyline points="158,127 196,127 196,95 222,95" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="222" y="78" width="120" height="34" rx="8" fill="#1D4ED8" stroke="#1D4ED8" stroke-width="1.5"/><text x="282" y="100" class="m w" font-size="13.5" text-anchor="middle">n8n</text>
+<polyline points="342,95 376,95" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="376" y="52" width="86" height="30" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="419" y="72" class="m n" font-size="13.5" text-anchor="middle">Claude</text>
+<rect x="376" y="108" width="86" height="30" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="419" y="128" class="m n" font-size="13.5" text-anchor="middle">OpenAI</text>
+<polyline points="462,67 480,67 480,95 498,95" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<polyline points="462,123 480,123 480,95 498,95" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="498" y="78" width="64" height="34" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="530" y="100" class="m n" font-size="13.5" text-anchor="middle">guest</text>
+<text x="32" y="214" class="s n" font-size="26">Hotel AI</text>
+<text x="568" y="214" class="b p" font-size="15" text-anchor="end">automation</text>
+<text x="32" y="248" class="b g" font-size="17.5">WhatsApp and voice agents that handle guest</text>
+<text x="32" y="274" class="b g" font-size="17.5">conversations end to end, built on n8n.</text>
+<rect x="32" y="306" width="46" height="28" rx="14" fill="#EEF4FF"/><text x="55" y="325" class="m p" font-size="13" text-anchor="middle">n8n</text>
+<rect x="86" y="306" width="117" height="28" rx="14" fill="#EEF4FF"/><text x="144" y="325" class="m p" font-size="13" text-anchor="middle">WhatsApp API</text>
+<rect x="211" y="306" width="70" height="28" rx="14" fill="#EEF4FF"/><text x="246" y="325" class="m p" font-size="13" text-anchor="middle">Claude</text>
+<rect x="289" y="306" width="70" height="28" rx="14" fill="#EEF4FF"/><text x="323" y="325" class="m p" font-size="13" text-anchor="middle">Docker</text>
+</svg>

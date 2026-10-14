@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" role="img" aria-label="Loki: voice agent">
+<style>.d{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:800}.s{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-weight:700}.b{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.n{fill:#0B1F3A}.p{fill:#1D4ED8}.g{fill:#5B6B85}.w{fill:#fff}</style>
+<rect x="1" y="1" width="598" height="358" rx="18" fill="#fff" stroke="#D6E2F5" stroke-width="2"/>
+<rect x="20" y="20" width="560" height="150" rx="12" fill="#EEF4FF"/>
+<rect x="34" y="46" width="104" height="34" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="86" y="68" class="m n" font-size="13.5" text-anchor="middle">wake word</text>
+<polyline points="138,63 150,63" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="150" y="46" width="128" height="34" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="214" y="68" class="m n" font-size="13.5" text-anchor="middle">speech to text</text>
+<polyline points="278,63 290,63" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="290" y="46" width="76" height="34" rx="8" fill="#1D4ED8" stroke="#1D4ED8" stroke-width="1.5"/><text x="328" y="68" class="m w" font-size="13.5" text-anchor="middle">Claude</text>
+<polyline points="366,63 378,63" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="378" y="46" width="96" height="34" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="426" y="68" class="m n" font-size="13.5" text-anchor="middle">MCP tools</text>
+<polyline points="474,63 486,63" fill="none" stroke="#1D4ED8" stroke-width="1.6"/>
+<rect x="486" y="46" width="62" height="34" rx="8" fill="#fff" stroke="#D6E2F5" stroke-width="1.5"/><text x="517" y="68" class="m n" font-size="13.5" text-anchor="middle">voice</text>
+<path d="M40 127V129M51 124V132M63 122V134M74 119V137M85 117V139M96 120V136M108 121V135M119 117V139M130 122V134M142 124V132M153 126V130M164 125V131M176 121V135M187 120V136M198 118V138M210 120V136M221 116V140M232 116V140M243 120V136M255 121V135M266 125V131M277 126V130M289 123V133M300 120V136M311 120V136M322 121V135M334 115V141M345 118V138M356 118V138M368 120V136M379 123V133M390 127V129M402 125V131M413 121V135M424 120V136M436 115V141M447 115V141M458 120V136M469 121V135M481 122V134M492 121V135M503 126V130M515 125V131M526 123V133M537 120V136M548 119V137" stroke="#1D4ED8" stroke-width="5" stroke-linecap="round" opacity=".6"/>
+<text x="32" y="214" class="s n" font-size="26">Loki</text>
+<text x="568" y="214" class="b p" font-size="15" text-anchor="end">voice agent</text>
+<text x="32" y="248" class="b g" font-size="17.5">Hands-free assistant: Claude reasons with live</text>
+<text x="32" y="274" class="b g" font-size="17.5">MCP tools and answers out loud in 3 languages.</text>
+<rect x="32" y="306" width="70" height="28" rx="14" fill="#EEF4FF"/><text x="67" y="325" class="m p" font-size="13" text-anchor="middle">Claude</text>
+<rect x="110" y="306" width="78" height="28" rx="14" fill="#EEF4FF"/><text x="148" y="325" class="m p" font-size="13" text-anchor="middle">FastMCP</text>
+<rect x="195" y="306" width="78" height="28" rx="14" fill="#EEF4FF"/><text x="234" y="325" class="m p" font-size="13" text-anchor="middle">LiveKit</text>
+<rect x="281" y="306" width="93" height="28" rx="14" fill="#EEF4FF"/><text x="327" y="325" class="m p" font-size="13" text-anchor="middle">WebSocket</text>
+</svg>
